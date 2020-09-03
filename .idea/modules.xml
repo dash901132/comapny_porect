@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Apigetway_Microservice/Apigetway_Microservice.iml" filepath="$PROJECT_DIR$/Apigetway_Microservice/Apigetway_Microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Company_Application_Poc.iml" filepath="$PROJECT_DIR$/Company_Application_Poc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Department_Microservice/Department_Microservice.iml" filepath="$PROJECT_DIR$/Department_Microservice/Department_Microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Employee_Microservice/Employee_Microservice.iml" filepath="$PROJECT_DIR$/Employee_Microservice/Employee_Microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Security-Microservice/Security-Microservice.iml" filepath="$PROJECT_DIR$/Security-Microservice/Security-Microservice.iml" />
+    </modules>
+  </component>
+</project>
